@@ -1,5 +1,5 @@
 # SQL_IMPRESSIONADOR
-Repositório com os Exemplos de Aula e Exercícios de Fixação do curso SQL Impressionador da Hashtag Treinamentos
+Repositório com a documentação do curso SQL Impressionador, contendo todos os módulos, aulas e exemplos do curso.
 
 Tópicos abordados no curso:
 
