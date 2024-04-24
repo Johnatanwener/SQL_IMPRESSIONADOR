@@ -1,0 +1,11 @@
+-- MÓDULO 21 - SQL SERVER - FUNCTIONS
+
+
+/* AULA 02 - O que e uma Function
+
+1. O que é uma Function?
+Uma function é um conjunto de comandos que executam ações e retorna um valor escalar. As functions ajudam a simplificar um código. Por exemplo, se você tem um cálculo complexo que aparece diversas vezes no seu código, em vez de repetir várias vezes aquela série de comandos, você pode simplesmente criar uma função e reaproveitá-la sempre que precisar.
+
+O próprio SQL tem diversas funções prontas e até agora, já vimos vários exemplos de funções deste tipo, como funções de data, texto, e assim vai.
+
+Podemos visualizar as funções do sistema na pasta Programação > Funções > Funções do Sistema */
