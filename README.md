@@ -1,5 +1,5 @@
 # SQL_IMPRESSIONADOR
-Repositório com a documentação do curso SQL Impressionador, contendo todos os módulos, aulas e exemplos do curso.
+Repositório com a documentação do curso SQL Impressionador, ministrado pela Hashtag Treinamentos contendo todos os módulos, aulas, apostilas e exemplos do curso.
 
 Tópicos abordados no curso:
 
